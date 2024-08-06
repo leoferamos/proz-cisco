@@ -6,20 +6,20 @@ Para o show da banda de Miguel, será necessário configurar uma rede de computa
 Este projeto configura uma topologia de rede estrela usando Cisco Packet Tracer para melhorar a comunicação entre a equipe de produção de um show.
 
 ## Topologia
-![Topologia de Rede](path/to/topology.png)
+![Topologia de Rede](topology.png)
 
 ## Teste de Comunicação
 ### Ping de PC1 para PC2
-![Ping PC1 para PC2](path/to/ping_pc1_pc2.png)
+![Ping PC1 para PC2](ping_pc1_pc2.png)
 
 ### Ping de PC1 para PC3
-![Ping PC1 para PC3](path/to/ping_pc1_pc3.png)
+![Ping PC1 para PC3](ping_pc1_pc3.png)
 
 ### Ping de PC1 para PC4
-![Ping PC1 para PC4](path/to/ping_pc1_pc4.png)
+![Ping PC1 para PC4](ping_pc1_pc4.png)
 
 ## Arquivo Cisco Packet Tracer
-O arquivo da topologia configurada pode ser encontrado [aqui](path/to/arquivo.pkt).
+O arquivo da topologia configurada pode ser encontrado [aqui](projeto.pkt).
 
 ## Como Executar
 1. Baixe e instale o Cisco Packet Tracer.
